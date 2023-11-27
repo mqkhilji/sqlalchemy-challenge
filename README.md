@@ -33,4 +33,4 @@ Routes:
 - Temperature Statistics (/api/v1.0/<start> and /api/v1.0/<start>/<end>): Returns JSON lists of temperature statistics for given date ranges.
 
 
-## I ensured proper linking between the station and measurement tables and utilized Flask's jsonify function for API data rendering.
+** I ensured proper linking between the station and measurement tables and utilized Flask's jsonify function for API data rendering. **
